@@ -1,0 +1,17 @@
+Package: montyhall
+Title: Virtual Monty Hall Game
+Version: 0.1
+Authors@R: 
+    person(given = "Tyler",
+           family = "Young",
+           role = c("aut", "cre"),
+           email = "tyleralexanderyoung@gmail.com",
+           comment = c(ORCID = "0000-0002-9314-6732"))
+Description: This package was created in the "Foundations Of Data Science II course at Arizona State University taught by Professor Jesse Lecy & Instructor Kirsten McGiver. The "Monty Hall" game where players choose fro a series of doors in order to hopefully win a prize was adapted by their instruction to use as a fun online game. 
+License: `2021, Young, GPL3` 
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+   dplyr
